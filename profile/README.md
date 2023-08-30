@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="" alt="Sirius Logo" width="200"/>
+  <img src="https://sirius.menu/assets/images/svg/logo.svg" alt="Sirius Logo" width="200"/>
 
   <h1>Sirius</h1>
 
