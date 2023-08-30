@@ -18,5 +18,5 @@
 
   <br>
 
-  <sub>© Sirius Software Limited 2023. All rights reserved.</sub>
+  <sub>© Sirius Software Ltd. 2023. All rights reserved.</sub>
 </div>
