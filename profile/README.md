@@ -1,9 +1,9 @@
 <div align="center">
   <img src="https://cdn.sirius.menu/KeySystem/assets/sg_Logo_full.png" alt="Sirius Software Logo" width="200"/>
 
-  <h1>Sirius Software Ltd.</h1>
+  <h1>Sirius</h1>
 
-  <p>Welcome to the official GitHub organization of Sirius Software. 🌌</p>
+  <p>Welcome to the official GitHub organization of Sirius.🌌</p>
 
   <a href="https://sirius.menu">🌐 Visit our website</a> · 
   <a href="https://apply.sirius.menu/">🚀 Apply to join us!</a>
