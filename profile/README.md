@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://cdn.sirius.menu/KeySystem/assets/sg_Logo_full.png" alt="Sirius Software Logo" width="200"/>
 
-  <h1>Sirius Software Limited</h1>
+  <h1>Sirius Software Ltd.</h1>
 
   <p>Welcome to the official GitHub organization of Sirius Software. 🌌</p>
 
