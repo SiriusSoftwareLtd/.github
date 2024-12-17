@@ -17,6 +17,5 @@
   There are lots of cool things in the works right now! - Max 👍
 
   <br>
-  <sub>© Sirius Software Ltd. 2023. All rights reserved.</sub><br>
-  <sub>The Sirius Software Ltd 'Sirius' 'S' logo icon is under examination for trademark registration by the UK Intellectual Property Office under number UK00003950257.</sub>
+  <sub>© Sirius Software Ltd. 2024. All rights reserved.</sub><br>
 </div>
