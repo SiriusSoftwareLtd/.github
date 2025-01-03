@@ -1,5 +1,8 @@
 <div align="center">
-  <img src="https://sirius.menu/assets/images/svg/logo.svg" alt="Sirius Logo" width="200"/>
+  <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://cdn.sirius.menu/assets/lightmode_sirius.svg" />
+  <img alt="Sirius Logo" width="200" src="https://cdn.sirius.menu/assets/darkmode_sirius.svg"/>
+  </picture>
 
   <h1>Sirius</h1>
 
