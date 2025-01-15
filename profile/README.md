@@ -20,5 +20,5 @@
   There are lots of cool things in the works right now! - Max 👍
 
   <br>
-  <sub>© Sirius Software Ltd. 2024. All rights reserved.</sub><br>
+  <sub>© Sirius Software Ltd. 2025 All rights reserved.</sub><br>
 </div>
