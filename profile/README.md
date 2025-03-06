@@ -14,7 +14,7 @@
   <hr>
   
   ## 🌠 Latest Updates
-  **Join [our discord](https://discord.gg/sirius)** to stay up-to-date with all things Sirius!
+  **Join [our discord](https://discord.com/invite/bP8syfjjtD)** to stay up-to-date with all things Sirius!
 
   ## ⚠️ Be Prepared!
   There are lots of cool things in the works right now! - Max 👍
